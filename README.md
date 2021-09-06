@@ -37,12 +37,8 @@ damit die Übersetzungen schnellstmöglich stattfinden können.
 
 
 
-Mitwirkende an diesem Projekt
+Update Informationen zum Projekt
 =========================================
 
-An diesem Projekt arbeite ich derzeit alleine, freue mich aber über jede Mitwirkung anderer, die helfen
-wollen dieses Projekt zu fördern.
-
-
-
-"Letzte Aktualisierung am 06.09.2021/20:42"
+Das Projekt wurde am 06.09.2021 erstellt.
+In diesem Bereich werden zukünftig Nachrichten zu den Updates an den Locales aktualisierungen.
