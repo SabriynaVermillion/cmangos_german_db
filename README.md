@@ -11,6 +11,7 @@ Ob es zukünftig noch ein Update geben wird, dass die Datenbank ausschließlich 
 
 
 
+
 Wie spiele ich die Übersetzungen in die Datenbank ein?
 ======================================================
 
@@ -42,3 +43,5 @@ Update Informationen zum Projekt
 
 Das Projekt wurde am 06.09.2021 erstellt.
 In diesem Bereich werden zukünftig Nachrichten zu den Updates an den Locales aktualisierungen.
+
+*"Ein großen Dank an 'Xadras' für viele vorgefertigte Übersetzungen ins Deutsche!"*
