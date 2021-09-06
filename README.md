@@ -1,8 +1,8 @@
-Willkommen bei der deutschen Cmangos The Burning Crusade Datenbank Projekt Seite!
-==================================================================================
+Cmangos: World of Warcraft - The Burning Crusade // Spieleversion 2.4.3 (8606) - Datenbankübersetzung
+=====================================================================================================
 
-Die Übersetzungen der .SQL Dateien werden im Laufe immer weiter geupdated, es werden
-neue Übersetzungen hinzugefügt, ebenso wird die mangos_string weitesgehend ins deutsche übersetzt.
+Dieses Projekt widmet sich der Übersetzung der Cmangos TBC Datenbank von Englisch
+auf Deutsch.
 
 
 
@@ -12,6 +12,14 @@ Wie kann ich dieses Projekt unterstützen?
 Dieses Projekt kannst du unterstützen, in dem du bei fehlender Lokalisierung, wie englische Texte,
 wie Namen von Quests, Questbeschreibungen, Kreaturen, Npc's oder Npc-Texte als neue Issue einträgst,
 damit die Übersetzungen schnellstmöglich stattfinden können.
+
+
+
+Mitwirkende an diesem Projekt
+=========================================
+
+An diesem Projekt arbeite ich derzeit alleine, freue mich aber über jede Mitwirkung anderer, die helfen
+wollen dieses Projekt zu fördern.
 
 
 
